@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-<!-- Stuff & Things
 
-## Professional
+Welcome to my website!
 
-Look at all the work that I do, results that I have! 
+I am a first-year Economics PhD student at Yale University. My research interests are in public and labor economics.
 
-
-## Personal
-Sometimes, I have free time and when I do I like to do things! -->
+Prior to graduate school, I studied economics and mathematics at William & Mary, and I worked as a pre-doctoral research fellow at Yale's Tobin Center for 
+<a href="https://economics.yale.edu/people/john-geanakoplos">John Geanakoplos</a>
+ and <a href="https://sites.google.com/site/cormacodea/home">Cormac O'Dea</a>.
