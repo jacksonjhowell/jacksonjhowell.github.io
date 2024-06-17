@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Jackson J. Howell"
   avatar           : "/assets/images/headshot_m.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Economics PhD Student"
+  bio              : "Economics Ph.D. Student"
   location         : "New Haven, CT"
   employer         : "Yale University"
   email            : "howelljacksonj@gmail.com"
@@ -271,62 +271,6 @@ defaults:
       comments: false
       share: false
       related: false
-
-
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-  code:
-    output: true
-    permalink: /:collection/:path/
-
-
-# Defaults
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single-teaching
-      author_profile: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single-publication
-      author_profile: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: single-talk
-      author_profile: true
-  # _code
-  - scope:
-      path: ""
-      type: code
-    values:
-      layout: single-code
-      author_profile: true
-
 
 
 
